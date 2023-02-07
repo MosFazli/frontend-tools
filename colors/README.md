@@ -1,1 +1,1 @@
-<div style="color: #000000"> <h1>Dark Pallete Number 1</h1> </div>
+<div style="color: #000000"> <font style="color: #000000">Dark Pallete Number 1</font> </div>
