@@ -1,0 +1,7 @@
+Background: #17252A
+Second Background: #2B7A78
+
+Foreground: #3AAFA9
+Auxiliary: #DEF2F1
+
+Text: #FEFFFF
