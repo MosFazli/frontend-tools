@@ -1,7 +1,0 @@
-Background:
-Second Background:
-
-Foreground:
-Auxiliary:
-
-Text:
